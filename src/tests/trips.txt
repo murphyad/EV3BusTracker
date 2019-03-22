@@ -1,0 +1,7 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,17-SEP_SUN,001,Athletic Field CCW 1:20,0,64101,17-SEP_64_0_23
+2,17-SEP_SUN,002,Athletic Field CW 2:40,1,31302,17-SEP_31_1_77
+3,17-SEP_SUN,003,Athletic Field X 1:20,1,56151,17-SEP_17_1_35
+4,17-SEP_SUN,004,Block CCW 1:20,0,64101,17-SEP_56_0_39
+5,17-SEP_SUN,005,Block CCW Not enough Time,0,80105,17-SEP_80_0_156
+6,17-SEP_SUN,006,Block Triangle 1:00,1,276202,17-SEP_276_1_8

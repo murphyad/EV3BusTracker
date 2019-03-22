@@ -1,0 +1,2 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type
+1116B94971_R01_WKDY,07:15:00,dfgidjfg,3F56F87E65,0,,,

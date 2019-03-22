@@ -1,0 +1,3 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type
+3F56F87E65,07:15:00,07:15:00,3F56F87E65,0,,,
+5D6D58DB42,07:16:00,07:16:00,5D6D58DB42,1,,,

@@ -1,0 +1,9 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+1,SE Corner #6712,0ft,43.043736, -87.905677
+2,NE Corner #1801,400ftN,43.044817, -87.905802
+3,NW Corner #5006,400ftW,43.044742, -87.907119
+4,SW Corner #7652,,43.043666, -87.907006
+5,State & Milwaukee,0ft,43.043676, -87.907008
+6,State & N. Jackson,623ft,43.043791, -87.904619
+7,Juneau & N. Jackson,685ft,43.045691, -87.904811
+8,Juneau & Milwaukee,634ft,43.045710, -87.907230

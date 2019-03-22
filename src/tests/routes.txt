@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,"MSOE","test1","Athletic Field CCW",,3,,008345,000000
+2,MSOE,test2,Athletic Field CW,,3,,008345,000000
+3,MSOE,test3,Athletic Field X,,3,,008345,000000
+4,MSOE,test4,Block CCW,,3,,008345,000000
+5,MSOE,test5,Block X,,3,,008345,000000
+6,MSOE,test6,Block Triangle,,3,,008345,000000
